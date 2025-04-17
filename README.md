@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img height="150em" alt="stat graph"src="https://github-readme-stats-eight-theta.vercel.app/api?username=OneWayTicketToHell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&custom_title=OWTTH's GitHub Stats"/>
   <img height="150em" alt="Stat Graph"src="https://github-readme-stats-eight-theta.vercel.app/api?username=OneWayTicketToHell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 
   <img src="https://streak-stats.demolab.com?user=OneWayTicketToHell&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&count_private=true" height="150" alt="streak graph"  />
